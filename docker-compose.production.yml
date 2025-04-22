@@ -1,0 +1,23 @@
+version: '3.8'
+
+volumes:
+  static:
+
+services:
+  bot:
+    image: meteopavel/nostalgia_camp_bot-bot-bot
+    restart: unless-stopped
+    command: python aiogram_run.py
+    env_file: .env
+    volumes:
+      - ./static:/app/static
+  gateway:
+    image: meteopavel/nostalgia_camp_bot-bot-gateway
+    restart: unless-stopped
+    env_file: .env 
+    ports:
+      - 8555:80
+    volumes: 
+      - static:/static 
+    depends_on:
+      - bot

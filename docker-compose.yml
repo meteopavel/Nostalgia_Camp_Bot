@@ -1,0 +1,21 @@
+version: '3.8'
+
+volumes:
+  static:
+
+services:
+  bot:
+    build: ./aiogram_bot/
+    command: python aiogram_run.py
+    env_file: .env
+    volumes:
+      - ./static:/app/static
+  gateway:
+    build: ./gateway/
+    env_file: .env 
+    ports:
+      - 8000:80
+    volumes: 
+      - static:/static 
+    depends_on:
+      - bot
