@@ -73,9 +73,9 @@ jobs:
         passphrase: ${{ secrets.SSH_PASSPHRASE }}
         script: |
           cd Nostalgia_Camp_Bot
-          docker compose -f docker-compose.production.yml down
-          docker compose -f docker-compose.production.yml pull
-          docker compose -f docker-compose.production.yml up -d
+          sudo docker compose -f docker-compose.production.yml down
+          sudo docker compose -f docker-compose.production.yml pull
+          sudo docker compose -f docker-compose.production.yml up -d
 
   send_message:
     name: Send Message
