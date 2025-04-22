@@ -22,7 +22,7 @@ jobs:
       - name: Push to DockerHub
         uses: docker/build-push-action@v4
         with:
-          context: ./bot/
+          context: ./aiogram_bot/
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/nostalgia_camp_bot-bot:latest
 
