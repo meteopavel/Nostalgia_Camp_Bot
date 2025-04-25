@@ -1,0 +1,62 @@
+{
+    "photo10_houses.jpg": {
+        "hash": "3a738815eb584b8a367d443762feb8a6",
+        "file_id": "AgACAgIAAxkDAAIBHmgLZWJ4BhczA-RagnCvXFXZdB63AALV8DEb4Q5gSOSF4J2m-5VmAQADAgADeQADNgQ",
+        "category": "houses"
+    },
+    "photo12_territory.jpg": {
+        "hash": "dda868026b3a5df42201e3472f503a68",
+        "file_id": "AgACAgIAAxkDAAIBIGgLZWKYRKF2eENdRv6P1KDRLhLJAALX8DEb4Q5gSFKmrSgJQQnLAQADAgADeQADNgQ",
+        "category": "territory"
+    },
+    "photo2_territory.jpg": {
+        "hash": "91d9c24aadca7f121cee0e1721c90b35",
+        "file_id": "AgACAgIAAxkDAAPKaAtOLCAUOAkgqceYSJnwuddlfqUAAvXvMRvhDmBIvduV59i2MRIBAAMCAAN5AAM2BA",
+        "category": "territory"
+    },
+    "photo3_territory.jpg": {
+        "hash": "f2fc3ff3440e230fba60b2170fbb7024",
+        "file_id": "AgACAgIAAxkDAAPLaAtOLOGVJiQwV9qSsK9eBgGycEEAAvbvMRvhDmBItrpna2gxYzgBAAMCAAN5AAM2BA",
+        "category": "territory"
+    },
+    "photo4_territory.jpg": {
+        "hash": "e80197ff4a0d3e4cdc536fd9f880d586",
+        "file_id": "AgACAgIAAxkDAAP3aAtPrgKr2WR2_28fVqbclN-T1WkAAv7vMRvhDmBIWFEsrs8E_mEBAAMCAAN5AAM2BA",
+        "category": "territory"
+    },
+    "photo5_houses.jpg": {
+        "hash": "6624d38cf569103c5716aa608595c8ff",
+        "file_id": "AgACAgIAAxkDAAIBJGgLZWMwklzpUHAxNztjwImSUn3zAALY8DEb4Q5gSMK87TkUCWDQAQADAgADeQADNgQ",
+        "category": "houses"
+    },
+    "photo6_entertainment.jpg": {
+        "hash": "b2dad88d8b1441a2c951b1c078fb3ca1",
+        "file_id": "AgACAgIAAxkDAAIBJWgLZWR8YebN_uxiivikDIPpIZfCAALZ8DEb4Q5gSMYpRSNIX5ANAQADAgADeQADNgQ",
+        "category": "entertainment"
+    },
+    "photo7_entertainment.jpg": {
+        "hash": "19f81bf4c66fb94183fa5a1c4abf1032",
+        "file_id": "AgACAgIAAxkDAAIBJmgLZWV0z6u-GUkvvp3qmcBuTu52AALa8DEb4Q5gSHBHCr34Wsp-AQADAgADeQADNgQ",
+        "category": "entertainment"
+    },
+    "photo8_entertainment.jpg": {
+        "hash": "8282f2c62a266e0d5e2dccf1c974d9a5",
+        "file_id": "AgACAgIAAxkDAAIBHWgLZWH-9Ysg3BO3BO40vg9kA5hGAALU8DEb4Q5gSGp9kaNMC-sbAQADAgADeQADNgQ",
+        "category": "entertainment"
+    },
+    "photo9_houses.jpg": {
+        "hash": "081502f1864429411efa0ccaae0bdca0",
+        "file_id": "AgACAgIAAxkDAAIBKGgLZWXM-oMfava3VQuM3XwIDKXcAALb8DEb4Q5gSP8NNMIx27HbAQADAgADeQADNgQ",
+        "category": "houses"
+    },
+    "photo1_houses.jpg": {
+        "hash": "af27d065dd57be08ec5b3b4a9e7014f6",
+        "file_id": "AgACAgIAAxkDAAOmaAtI4zDpcBdDdYv5rT2ut1msJMAAAszvMRvhDmBImutVBUJFevMBAAMCAAN5AAM2BA",
+        "category": "houses"
+    },
+    "photo11_entertainment.jpg": {
+        "hash": "82527d647b2eb610df311099b65c13d4",
+        "file_id": "AgACAgIAAxkDAAIBH2gLZWKPOUZeWyoReCypnjTUj0hgAALW8DEb4Q5gSCMeaV2lurwBAQADAgADeQADNgQ",
+        "category": "entertainment"
+    }
+}

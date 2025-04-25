@@ -9,7 +9,9 @@ services:
     volumes:
       - ./static:/app/static
   gateway:
-    build: ./gateway/
+    build: 
+      context: .
+      dockerfile: ./gateway/Dockerfile
     env_file: .env 
     ports:
       - 8000:80
